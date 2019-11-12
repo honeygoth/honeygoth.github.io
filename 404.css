@@ -1,0 +1,13 @@
+body
+{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+  background: url('https://i.imgur.com/UeW9qx9.jpg');
+}
+
+#notfound
+{
+  margin-top: 20%;
+  color: white;
+}
